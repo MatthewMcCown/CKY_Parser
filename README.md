@@ -1,1 +1,1 @@
-Implementation of the CKY Parsing Algorithm for context free grammars. Assumes the grammar is in Chomsky Normal Form. 
+NLP: Implementation of the CKY Parser Algorithm for context-free grammars. Given an input sentence and context-free grammar, the algorithm generates parse trees in accordance with the grammar.
